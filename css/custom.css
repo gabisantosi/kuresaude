@@ -26,10 +26,10 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700');
 @import url('https://fonts.googleapis.com/css?family=Arvo:400,400i,700');
 * {font-family: 'Poppins', sans-serif;}
-h1,h2,h3,h4,h5,h6 {font-family: 'Poppins', sans-serif;}
+h1,h2,h3,h4,h5,h6,
 p {
     font-family: 'Poppins', sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 300;
 }
 .header_style_01 .navbar-brand {
@@ -81,7 +81,7 @@ header {
 }
 .header-bottom nav.main-menu ul.nav.navbar-nav > li a {
     color: #fff;
-    font-size: 15px;
+    font-size: 18px;
     padding: 20px 20px;
     text-transform: uppercase;
     letter-spacing: 0;
@@ -156,7 +156,7 @@ header {
     overflow: hidden;
     border: yellow;
     float: left;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 500;
     padding: 0px 25px 0 25px;
     color: #222;
@@ -336,7 +336,7 @@ body.clinic_version .first-section h2 {
     width: 100%;
     text-align: center;
     margin: 0;
-    font-size: 14px;
+    font-size: 18px;
 }
 .service-time ul {
     margin: 0;
@@ -348,7 +348,7 @@ body.clinic_version .first-section h2 {
 .service-time ul li {
     float: left;
     width: 100%;
-    font-size: 14px;
+    font-size: 18px;
     border-bottom: dashed 1px #fff;
     padding-bottom: 10px;
     padding-top: 10px;
@@ -427,7 +427,7 @@ body.clinic_version .first-section {
 }
 .message-box .lead {
     padding-top: 10px;
-    font-size: 16px;
+    font-size: 18px;
     font-style: normal;
     color: #999;
     padding-bottom: 0;
@@ -442,7 +442,7 @@ body.clinic_version .section {
     margin-bottom: 15px;
 }
 .service-widget h3 {
-    font-size: 16px;
+    font-size: 18px;
     color: #ffffff;
     padding: 12px 0 12px;
     margin: 0;
@@ -481,7 +481,7 @@ hr.hr1 {
     color: #fff;
 }
 .serv h4 {
-    font-size: 15px;
+    font-size: 18px;
     color: #fff;
     font-weight: 600;
     padding: 0;
@@ -492,7 +492,7 @@ hr.hr1 {
 .serv p {
     float: left;
     width: 100%;
-    font-size: 15px;
+    font-size: 18px;
     line-height: 23px;
     font-weight: 400;
     margin-top: 5px;
@@ -536,7 +536,7 @@ hr.hr1 {
     border: solid #ccc 1px;
     padding: 8px 15px;
     font-weight: 400;
-    font-size: 13px;
+    font-size: 18px;
     margin: 12px 0 0;
     box-shadow: none;
     color: #333;
@@ -549,7 +549,7 @@ hr.hr1 {
     border: solid #ccc 1px;
     padding: 8px 15px;
     font-weight: 400;
-    font-size: 13px;
+    font-size: 18px;
     margin: 12px 0 0;
     box-shadow: none;
     color: #333;
@@ -599,7 +599,7 @@ body.clinic_version .dev-list .widget h3 {
 body.clinic_version .dev-list .widget small {
     display: block;
     margin: -15px 0 -5px;
-    font-size: 16px;
+    font-size: 18px;
 }
 .message-box h4 {
     text-transform: uppercase;
@@ -607,7 +607,7 @@ body.clinic_version .dev-list .widget small {
     margin: 0 0 5px;
     font-weight: 600;
     letter-spacing: 0.5px;
-    font-size: 17px;
+    font-size: 18px;
     color: #739faa;
 }
 #price.section {
@@ -621,7 +621,7 @@ body.clinic_version .tab-pane p {
     padding-top: 0;
 }
 .pricing-table-header h3 {
-    font-size: 15px;
+    font-size: 18px;
 }
 .pricing-table strong {
     font-weight: 400;
@@ -666,7 +666,7 @@ body.clinic_version .tab-pane p {
     left: 0;
 }	
 .footer-info h3 {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     color: #fff;
 }
@@ -674,12 +674,12 @@ body.clinic_version .tab-pane p {
     width: 30px;
 }
 .footer-info address {
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 300;
     margin: 0;
 }
 .footer-info .phone-no {
-    font-size: 14px;
+    font-size: 18px;
     line-height: normal;
     margin: 0;
 }
@@ -746,7 +746,7 @@ body.clinic_version .footer .widget-title h3 {
     padding: 0;
     border: none;
     border-bottom: solid #fff 2px;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 300;
     margin-bottom: 15px;
 }
@@ -775,7 +775,7 @@ body.clinic_version .footer .widget-title h3 {
     background: #fff;
     padding: 80px 0px;
     color: #fff;
-    font-size: 14px;
+    font-size: 18px;
     float: left;
     width: 100%;
 }
@@ -786,7 +786,7 @@ body.clinic_version .footer .widget-title h3 {
 }
 .footer-area p {
     color: #999;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
 }
 .footer-info {
@@ -808,7 +808,7 @@ body.clinic_version .footer .widget-title h3 {
     background-color: transparent;
     color: #aaa;
     display: block;
-    font-size: 15px;
+    font-size: 18px;
     font-style: normal;
     line-height: 30px;
     margin: 0;
@@ -953,7 +953,7 @@ body.clinic_version .footer .widget-title h3 {
 .tab-content ul li {
     float: left;
     width: 100%;
-    font-size: 16px;
+    font-size: 18px;
     position: relative;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
@@ -1023,7 +1023,7 @@ body.clinic_version .footer .widget-title h3 {
 	margin:0;
 }
 .breadcrum ul li {
-    font-size: 16px;
+    font-size: 18px;
     color: #222;
     margin-top: 5px;
 }
@@ -1066,7 +1066,7 @@ body.clinic_version .footer .widget-title h3 {
     color: #333;
 }
 .aboutus-cont p {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     margin-bottom: 25px;
 }
@@ -1123,7 +1123,7 @@ nav.main-menu .navbar-toggle {
 }
 .header-bottom nav.main-menu ul.nav.navbar-nav > li a {
     color: #fff;
-    font-size: 17px;
+    font-size: 18px;
     padding: 20px 20px;
     text-transform: none;
     letter-spacing: 0;
@@ -1183,7 +1183,7 @@ header {
 }
 .header-bottom nav.main-menu ul.nav.navbar-nav > li a {
     color: #fff;
-    font-size: 15px;
+    font-size: 18px;
     padding: 12px 0;
     text-transform: uppercase;
     letter-spacing: 0;
