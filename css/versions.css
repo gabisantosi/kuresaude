@@ -51,9 +51,9 @@ body.clinic_version .grd1 {
     color: #ffffff;
     background: #498da5;
     border: #498da5;
-    background: -moz-linear-gradient(left, #739faa 0%, #498da5 100%);
-    background: -webkit-linear-gradient(left, #739faa  0%, #498da5 100%);
-    background: linear-gradient(to right, #739faa  0%, #498da5 100%);
+    background: -moz-linear-gradient( #739faa 100%);
+    background: -webkit-linear-gradient( #739faa 100%);
+    background: linear-gradient( #739faa 100%);
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#498da5', endColorstr='#739faa', GradientType=1);
 }
 
@@ -76,9 +76,9 @@ body.clinic_version .grd1:focus {
     background-position: 100px;
     color: #ffffff;
     background: #739faa;
-    background: -moz-linear-gradient(left, #739faa 0%, #498da5 100%);
-    background: -webkit-linear-gradient(left, #739faa 0%, #498da5 100%);
-    background: linear-gradient(to right, #739faa 0%, #498da5 100%);
+    background: -moz-linear-gradient( #498da5 100%);
+    background: -webkit-linear-gradient(l#498da5 100%);
+    background: linear-gradient( #498da5 100%);
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#739faa', endColorstr='#498da5', GradientType=1);
 }
 

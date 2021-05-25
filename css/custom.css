@@ -215,7 +215,7 @@ header {
 .appointment-form h3 {
     float: left;
     margin: 0;
-    background: linear-gradient(to right, #739faa 0%, #739faa 100%);
+    background: #739faa;
     width: 100%;
     color: #fff;
     padding: 15px 25px;
@@ -394,6 +394,7 @@ body.clinic_version .first-section h2 {
 .service-time.one {
     position: relative;
     z-index: 1;
+   
 }
 .heading {
     text-align: center;
@@ -456,7 +457,7 @@ hr.hr1 {
 }
 .services {
     width: 100%;
-    background: linear-gradient(to right, #739faa 0%, #498da5 100%);
+    background:  #498da5;
     padding: 75px 0;
 }
 .services {
@@ -574,7 +575,7 @@ hr.hr1 {
     display: flex;
 }
 .form-group button {
-    background: linear-gradient(to right, #739faa 0%, #498da5 100%);
+    background: #498da5;
     border: none;
     margin-top: 15px;
     margin-bottom: 5px;
@@ -585,7 +586,7 @@ hr.hr1 {
     font-weight: 600;
 }
 .form-group button:hover,.form-group button:focus {
-    background: linear-gradient(to right, #498da5 0%, #739faa 100%);
+    background:  #739faa;
 }
 body.clinic_version .dev-list .widget h3 {
     display: inline-block;
@@ -762,14 +763,14 @@ body.clinic_version .footer .widget-title h3 {
 }
 #submitButton {
     padding: 15px 30px;
-    background: linear-gradient(to right, #739faa 0%, #739faa 100%);
+    background:  #739faa;
     color: #fff;
     border-radius: 50px;
     margin-top: 10px;
 	transition:ease all 1s;
 }
 #submitButton:hover,#submitButton:focus {
-    background: linear-gradient(to right, #739faa 0%, #739faa 100%);
+    background:  #739faa;
 }
 .footer-area {
     background: #fff;
@@ -887,7 +888,7 @@ body.clinic_version .footer .widget-title h3 {
     width: 20%;
     font-weight: bold;
     color: #fff;
-    background: linear-gradient(to right, #739faa 0%, #739faa 100%);
+    background: #739faa;
     border: none;
     font-size: 24px;
     position: relative;
@@ -896,7 +897,7 @@ body.clinic_version .footer .widget-title h3 {
     text-align: center;
 }
 .newsletter-form .mc-submit:hover,.newsletter-form .mc-submit:focus {
-    background: linear-gradient(to right, #739faa 0%, #739faa 100%);
+    background:  #739faa;
 }
 #testimonials {
     background-image: url('../images/bg-testimonial.png');
@@ -934,7 +935,7 @@ body.clinic_version .footer .widget-title h3 {
 	border-radius:0;
 }
 .tabs-information .nav.nav-tabs li:hover a,.tabs-information .nav.nav-tabs li:focus a,.tabs-information .nav.nav-tabs li.active a {
-    background: linear-gradient(to right, #739faa 0%, #739faa 100%);
+    background: #739faa;
     border-color: transparent;
     color: #fff;
 }
@@ -1046,7 +1047,7 @@ body.clinic_version .footer .widget-title h3 {
 .girl-with-lap {
     float: left;
     width: 100%;
-    background: linear-gradient(to right, #739faa 0%, #739faa 100%);
+    background:#739faa;
     margin-bottom: 75px;
     margin-top: -20px;
     color: #fff;
@@ -1104,7 +1105,7 @@ nav.main-menu .navbar-toggle {
     margin-top: 2px;
     margin-right: 0;
     margin-bottom: 0;
-    background: linear-gradient(to right, #739faa 0%, #739faa 100%);
+    background: #739faa;
     border: none;
     border-radius: 0;
     font-size: 22px;
